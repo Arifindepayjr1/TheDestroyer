@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: 1BgSky
+    uniqueID: 1068025275
+    locked: 0
+  - name: 2Cloud
+    uniqueID: 2804182373
+    locked: 0
+  - name: 3Treee
+    uniqueID: 189938139
+    locked: 0
+  - name: 4House
+    uniqueID: 293741181
+    locked: 0
+  - name: 5Grave
+    uniqueID: 1532265897
+    locked: 0
+  - name: 6Wall
+    uniqueID: 4275567037
+    locked: 0
+  - name: 7WalkingSpace
+    uniqueID: 2904907687
+    locked: 0
