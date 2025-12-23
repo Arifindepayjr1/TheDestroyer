@@ -2,25 +2,34 @@ using UnityEngine;
 
 public class ParallaxLayer : MonoBehaviour
 {
-    [Range(0f, 1f)]
-    public float parallaxStrength;
-
-    private Transform cam;
-    private Vector3 startPos;
+    private float startPos, length;
+    public Transform cam;
+    public float parallaxEffect;
 
     void Start()
     {
-        cam = Camera.main.transform;
-        startPos = transform.position;
+        startPos = transform.position.x;
+        length = GetComponent<SpriteRenderer>().bounds.size.x;
     }
 
     void LateUpdate()
     {
-        float camX = cam.position.x;
+        float distance = cam.position.x * parallaxEffect;
+        float movement = cam.position.x * (1 - parallaxEffect);
+
         transform.position = new Vector3(
-            startPos.x + camX * parallaxStrength,
-            startPos.y,
-            startPos.z
+            startPos + distance,
+            transform.position.y,
+            transform.position.z
         );
+
+        if (movement > startPos + length)
+        {
+            startPos += length;
+        }
+        else if (movement < startPos - length)
+        {
+            startPos -= length;
+        }
     }
 }
