@@ -8,7 +8,7 @@ TagManager:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - groundLayer
   - Water
   - UI
   - 
@@ -41,24 +41,30 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: 1BgSky
+  - name: BgSky
     uniqueID: 1068025275
     locked: 0
-  - name: 2Cloud
+  - name: Cloud
     uniqueID: 2804182373
     locked: 0
-  - name: 3Treee
+  - name: Treee
     uniqueID: 189938139
     locked: 0
-  - name: 4House
+  - name: Status
+    uniqueID: 1502220501
+    locked: 0
+  - name: House
     uniqueID: 293741181
     locked: 0
-  - name: 5Grave
+  - name: Grave
     uniqueID: 1532265897
     locked: 0
-  - name: 6Wall
+  - name: Wall
     uniqueID: 4275567037
     locked: 0
-  - name: 7WalkingSpace
+  - name: WalkingSpace
     uniqueID: 2904907687
+    locked: 0
+  - name: PlyerMovement
+    uniqueID: 1990577861
     locked: 0
