@@ -68,6 +68,7 @@
     <Compile Include="Assets\Scripts\Player\PlayerMovement.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\Assets\Weapon\license.txt" />
     <None Include="Assets\Assets\OffWhiteMapMonster\Monster2 Sequence\Golem_2\TXT\readme.txt" />
     <None Include="Assets\Assets\OffWhiteMapMonster\Monster2 Sequence\Golem_2\TXT\license.txt" />
   </ItemGroup>
