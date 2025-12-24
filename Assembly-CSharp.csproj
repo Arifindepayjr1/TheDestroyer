@@ -62,12 +62,16 @@
     <Compile Include="Assets\Scripts\ShoootingMechanism\Shooting.cs" />
     <Compile Include="Assets\Scripts\Player\DestroyOnhit.cs" />
     <Compile Include="Assets\Scripts\Background\ParallexLayer.cs" />
+    <Compile Include="Assets\Scripts\HealthSystem\PlayerHealth.cs" />
     <Compile Include="Assets\Scripts\ShoootingMechanism\ShootingItem1.cs" />
     <Compile Include="Assets\Scripts\Enermy\Enemy.cs" />
     <Compile Include="Assets\Scripts\ShoootingMechanism\ShootingAction.cs" />
     <Compile Include="Assets\Scripts\Player\PlayerMovement.cs" />
+    <Compile Include="Assets\Scripts\HealthSystem\EnemyDamage.cs" />
+    <Compile Include="Assets\Scripts\HealthSystem\HealthDisplay.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\Assets\ProfileIcon\license.txt" />
     <None Include="Assets\Assets\Weapon\license.txt" />
     <None Include="Assets\Assets\OffWhiteMapMonster\Monster2 Sequence\Golem_2\TXT\readme.txt" />
     <None Include="Assets\Assets\OffWhiteMapMonster\Monster2 Sequence\Golem_2\TXT\license.txt" />
