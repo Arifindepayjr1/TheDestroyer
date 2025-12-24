@@ -29,7 +29,7 @@ public class PlayerMovement : MonoBehaviour
         FlipSprite();
 
         // Jump only if grounded
-        if (Input.GetButtonDown("Jump") && isGrounded)
+        if (Input.GetKeyDown(KeyCode.W) && isGrounded)
         {
             rb.velocity = new Vector2(rb.velocity.x, jumpPower);
         }
