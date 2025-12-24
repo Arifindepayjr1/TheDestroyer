@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\TheDestroyer\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\TheDestroyer\\Assets\\Scripts\\Player\\PlayerMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Player\\PlayerMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\TheDestroyer\\Assets\\Scripts\\ShoootingMechanism\\ShootingItem1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\ShoootingMechanism\\ShootingItem1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -46,11 +50,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\TheDestroyer\\Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\TheDestroyer\\Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T06:36:15.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Enemy.cs",
               "DocumentMoniker": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\TheDestroyer\\Assets\\Scripts\\Enermy\\Enemy.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Enermy\\Enemy.cs",
@@ -58,12 +75,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Enermy\\Enemy.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-23T19:30:52.694Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-23T19:30:52.694Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ShootingItem1.cs",
               "DocumentMoniker": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\TheDestroyer\\Assets\\Scripts\\ShoootingMechanism\\ShootingItem1.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ShoootingMechanism\\ShootingItem1.cs",
@@ -76,7 +92,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "DestroyOnhit.cs",
               "DocumentMoniker": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\TheDestroyer\\Assets\\Scripts\\Player\\DestroyOnhit.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\DestroyOnhit.cs",
@@ -84,12 +100,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Player\\DestroyOnhit.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-23T19:26:22.644Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-23T19:26:22.644Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Shooting.cs",
               "DocumentMoniker": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\TheDestroyer\\Assets\\Scripts\\ShoootingMechanism\\Shooting.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ShoootingMechanism\\Shooting.cs",
@@ -101,7 +116,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ShootingAction.cs",
               "DocumentMoniker": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\TheDestroyer\\Assets\\Scripts\\ShoootingMechanism\\ShootingAction.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ShoootingMechanism\\ShootingAction.cs",
@@ -109,12 +124,11 @@
               "RelativeToolTip": "Assets\\Scripts\\ShoootingMechanism\\ShootingAction.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-23T18:18:57.693Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-23T18:18:57.693Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "ShootingAction.cs",
               "DocumentMoniker": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\TheDestroyer\\Assets\\Scripts\\ShootingAction.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ShootingAction.cs",
@@ -126,7 +140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "ShootingItem1.cs",
               "DocumentMoniker": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\TheDestroyer\\Assets\\Scripts\\ShootingItem1.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ShootingItem1.cs",
@@ -138,7 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "ShootingMechanism.cs",
               "DocumentMoniker": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\TheDestroyer\\Assets\\Scripts\\ShootingMechanism.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ShootingMechanism.cs",
@@ -149,7 +163,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "ParallexLayer.cs",
               "DocumentMoniker": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\TheDestroyer\\Assets\\Scripts\\ParallexLayer.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ParallexLayer.cs",
