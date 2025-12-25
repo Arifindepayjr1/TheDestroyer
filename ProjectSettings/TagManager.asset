@@ -14,10 +14,10 @@ TagManager:
   - Water
   - UI
   - Player
-  - 
-  - 
-  - 
-  - 
+  - BulletLayer
+  - EnermyLayer
+  - Enemy
+  - EnemyBullet
   - 
   - 
   - 

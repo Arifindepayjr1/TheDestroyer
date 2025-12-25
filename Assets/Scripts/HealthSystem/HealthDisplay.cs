@@ -3,9 +3,6 @@ using UnityEngine.UI;
 
 public class HealthDisplay : MonoBehaviour
 {
-    public int health;
-    public int maxHealth;
-
     public Sprite emptyHeart;
     public Sprite fullHeart;
 
@@ -13,31 +10,34 @@ public class HealthDisplay : MonoBehaviour
 
     public PlayerHealth playerHealth;
 
+    void Start()
+    {
+        if (playerHealth == null)
+            Debug.LogError("PlayerHealth reference not assigned!");
+
+        UpdateDisplay();
+    }
+
     void Update()
     {
-        health = playerHealth.health;
-        maxHealth = playerHealth.maxHealth;
+        UpdateDisplay();
+    }
+
+    void UpdateDisplay()
+    {
+        if (playerHealth == null) return;
+
+        int health = playerHealth.health;
+        int maxHealth = playerHealth.maxHealth;
+
         for (int i = 0; i < hearts.Length; i++)
         {
-            if(i < health)
-            {
+            if (i < health)
                 hearts[i].sprite = fullHeart;
-            }
             else
-            {
                 hearts[i].sprite = emptyHeart;
-            }
-            if (i < maxHealth)
-            {
-                hearts[i].enabled = true;
-            }
-            else
-            {
-                hearts[i].enabled = false;
-            }
 
+            hearts[i].enabled = i < maxHealth;
         }
     }
 }
-
-

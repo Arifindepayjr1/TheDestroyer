@@ -1,66 +1,155 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\TheDestroyer\\",
+  "WorkspaceRootPath": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\gamedevgaming\\TheDestroyer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\TheDestroyer\\Assets\\Scripts\\Enermy\\EnemyAI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Enermy\\EnemyAI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\gamedevgaming\\TheDestroyer\\Assets\\Scripts\\MenuScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\MenuScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\TheDestroyer\\Assets\\Scripts\\Player\\PlayerMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Player\\PlayerMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\gamedevgaming\\TheDestroyer\\Assets\\Scripts\\PlayerSpawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\PlayerSpawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\TheDestroyer\\Assets\\Scripts\\HealthSystem\\PlayerHealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\HealthSystem\\PlayerHealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\gamedevgaming\\TheDestroyer\\Assets\\Scripts\\ScreenTransitionTrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\ScreenTransitionTrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\TheDestroyer\\Assets\\Scripts\\HealthSystem\\HealthDisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\gamedevgaming\\TheDestroyer\\Assets\\Scripts\\LevelGoal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\LevelGoal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ARIFIN\\AppData\\Local\\Temp\\03bf161e-89fe-45fe-8a24-c9b0aa198eb3_Scripts.zip.eb3\\Scripts\\Game-Manager\\LevelGoal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\gamedevgaming\\TheDestroyer\\Assets\\Scripts\\PlayerPersistent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\PlayerPersistent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\gamedevgaming\\TheDestroyer\\Assets\\Scripts\\HealthSystem\\HealthDisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\HealthSystem\\HealthDisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\TheDestroyer\\Assets\\Scripts\\HealthSystem\\EnemyDetection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\HealthSystem\\EnemyDetection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\gamedevgaming\\TheDestroyer\\Assets\\Scripts\\ShoootingMechanism\\PlayerShooting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\ShoootingMechanism\\PlayerShooting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\TheDestroyer\\Assets\\Scripts\\HealthSystem\\EnemyDamage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\HealthSystem\\EnemyDamage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\gamedevgaming\\TheDestroyer\\Assets\\Scripts\\Player\\PlayerMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Player\\PlayerMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\TheDestroyer\\Assets\\Scripts\\ShoootingMechanism\\Shooting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\gamedevgaming\\TheDestroyer\\Assets\\Scripts\\HealthSystem\\PlayerHealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\HealthSystem\\PlayerHealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\gamedevgaming\\TheDestroyer\\Assets\\Scripts\\SavePoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\SavePoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\gamedevgaming\\TheDestroyer\\Assets\\Scripts\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ARIFIN\\AppData\\Local\\Temp\\6694e667-3aee-4ea0-ab43-bce7d19d50eb_Scripts.zip.0eb\\Scripts\\Game-Manager\\SavePoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\gamedevgaming\\TheDestroyer\\Assets\\Scripts\\Enermy\\EnemyAI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Enermy\\EnemyAI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\gamedevgaming\\TheDestroyer\\Assets\\Scripts\\ShoootingMechanism\\EnemyBullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\ShoootingMechanism\\EnemyBullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\gamedevgaming\\TheDestroyer\\Assets\\Scripts\\StackImageUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\StackImageUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\gamedevgaming\\TheDestroyer\\Assets\\Scripts\\ShoootingMechanism\\PlayerBullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\ShoootingMechanism\\PlayerBullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\gamedevgaming\\TheDestroyer\\Assets\\Scripts\\ShoootingMechanism\\EnemyShooting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\ShoootingMechanism\\EnemyShooting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\gamedevgaming\\TheDestroyer\\Assets\\Scripts\\ShoootingMechanism\\Shooting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\ShoootingMechanism\\Shooting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\TheDestroyer\\Assets\\Scripts\\ShoootingMechanism\\ShootingItem1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\gamedevgaming\\TheDestroyer\\Assets\\Assets\\New folder\\Street Backgrounds Pixel Art Original\\Scripts\\Player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Assets\\New folder\\Street Backgrounds Pixel Art Original\\Scripts\\Player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\gamedevgaming\\TheDestroyer\\Assets\\Scripts\\DestroyOnHit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\DestroyOnHit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ARIFIN\\Downloads\\ScriptsNew\\Player\\DestroyOnhit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\gamedevgaming\\TheDestroyer\\Assets\\Scripts\\CameraFollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\CameraFollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ARIFIN\\Downloads\\ScriptsNew\\Player\\CameraFollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\gamedevgaming\\TheDestroyer\\Assets\\Scripts\\Enermy\\EnemyTouchDamage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Enermy\\EnemyTouchDamage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\gamedevgaming\\TheDestroyer\\Assets\\Scripts\\ShoootingMechanism\\PlayerBullets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\ShoootingMechanism\\PlayerBullets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\gamedevgaming\\TheDestroyer\\Assets\\Scripts\\Enermy\\EnemyHealh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Enermy\\EnemyHealh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\gamedevgaming\\TheDestroyer\\Assets\\Scripts\\ShoootingMechanism\\PlayerStack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\ShoootingMechanism\\PlayerStack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ARIFIN\\Downloads\\ScriptsNew\\Player\\PlayerStack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\TheDestroyer\\Assets\\Scripts\\Enermy\\EnemyAI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\TheDestroyer\\Assets\\Scripts\\HealthSystem\\EnemyDetection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\gamedevgaming\\TheDestroyer\\Assets\\Scripts\\HealthSystem\\EnemyDamage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\HealthSystem\\EnemyDamage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\gamedevgaming\\TheDestroyer\\Assets\\Scripts\\ShoootingMechanism\\ShootingItem1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\ShoootingMechanism\\ShootingItem1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\TheDestroyer\\Assets\\Scripts\\Enermy\\Enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\gamedevgaming\\TheDestroyer\\Assets\\Scripts\\Enermy\\Enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Enermy\\Enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\TheDestroyer\\Assets\\Scripts\\Player\\DestroyOnhit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\gamedevgaming\\TheDestroyer\\Assets\\Scripts\\Player\\DestroyOnhit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Player\\DestroyOnhit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\TheDestroyer\\Assets\\Scripts\\ShoootingMechanism\\ShootingAction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\gamedevgaming\\TheDestroyer\\Assets\\Scripts\\ShoootingMechanism\\ShootingAction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\ShoootingMechanism\\ShootingAction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\TheDestroyer\\Assets\\Scripts\\ShootingAction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\ShootingAction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\TheDestroyer\\Assets\\Scripts\\ShootingAction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\TheDestroyer\\Assets\\Scripts\\ShootingItem1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\ShootingItem1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\TheDestroyer\\Assets\\Scripts\\ShootingItem1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\TheDestroyer\\Assets\\Scripts\\ShootingMechanism.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\ShootingMechanism.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\TheDestroyer\\Assets\\Scripts\\ShootingMechanism.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\TheDestroyer\\Assets\\Scripts\\ParallexLayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\ParallexLayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\TheDestroyer\\Assets\\Scripts\\ParallexLayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -75,120 +164,241 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "EnemyAI.cs",
-              "DocumentMoniker": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\TheDestroyer\\Assets\\Scripts\\Enermy\\EnemyAI.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Enermy\\EnemyAI.cs",
-              "ToolTip": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\TheDestroyer\\Assets\\Scripts\\Enermy\\EnemyAI.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Enermy\\EnemyAI.cs",
-              "ViewState": "AQIAAGMAAAAAAAAAAAAAABcAAAAWAAAA",
+              "Title": "MenuScript.cs",
+              "DocumentMoniker": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\gamedevgaming\\TheDestroyer\\Assets\\Scripts\\MenuScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MenuScript.cs",
+              "ToolTip": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\gamedevgaming\\TheDestroyer\\Assets\\Scripts\\MenuScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MenuScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-24T16:47:03.617Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "HealthDisplay.cs",
-              "DocumentMoniker": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\TheDestroyer\\Assets\\Scripts\\HealthSystem\\HealthDisplay.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\HealthSystem\\HealthDisplay.cs",
-              "ToolTip": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\TheDestroyer\\Assets\\Scripts\\HealthSystem\\HealthDisplay.cs",
-              "RelativeToolTip": "Assets\\Scripts\\HealthSystem\\HealthDisplay.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-24T15:47:49.691Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "EnemyDetection.cs",
-              "DocumentMoniker": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\TheDestroyer\\Assets\\Scripts\\HealthSystem\\EnemyDetection.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\HealthSystem\\EnemyDetection.cs",
-              "ToolTip": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\TheDestroyer\\Assets\\Scripts\\HealthSystem\\EnemyDetection.cs",
-              "RelativeToolTip": "Assets\\Scripts\\HealthSystem\\EnemyDetection.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-24T10:48:06.247Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "EnemyDamage.cs",
-              "DocumentMoniker": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\TheDestroyer\\Assets\\Scripts\\HealthSystem\\EnemyDamage.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\HealthSystem\\EnemyDamage.cs",
-              "ToolTip": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\TheDestroyer\\Assets\\Scripts\\HealthSystem\\EnemyDamage.cs",
-              "RelativeToolTip": "Assets\\Scripts\\HealthSystem\\EnemyDamage.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAYwBEAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-24T10:12:18.819Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PlayerHealth.cs",
-              "DocumentMoniker": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\TheDestroyer\\Assets\\Scripts\\HealthSystem\\PlayerHealth.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\HealthSystem\\PlayerHealth.cs",
-              "ToolTip": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\TheDestroyer\\Assets\\Scripts\\HealthSystem\\PlayerHealth.cs",
-              "RelativeToolTip": "Assets\\Scripts\\HealthSystem\\PlayerHealth.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAIBJwBsAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-24T10:09:52.394Z",
+              "WhenOpened": "2025-12-25T21:51:20.302Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "PlayerMovement.cs",
-              "DocumentMoniker": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\TheDestroyer\\Assets\\Scripts\\Player\\PlayerMovement.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerMovement.cs",
-              "ToolTip": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\TheDestroyer\\Assets\\Scripts\\Player\\PlayerMovement.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerMovement.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAYwCIAAAAJAAAA",
+              "Title": "PlayerSpawn.cs",
+              "DocumentMoniker": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\gamedevgaming\\TheDestroyer\\Assets\\Scripts\\PlayerSpawn.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerSpawn.cs",
+              "ToolTip": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\gamedevgaming\\TheDestroyer\\Assets\\Scripts\\PlayerSpawn.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerSpawn.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-24T06:36:15.654Z",
+              "WhenOpened": "2025-12-25T20:51:48.393Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Enemy.cs",
-              "DocumentMoniker": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\TheDestroyer\\Assets\\Scripts\\Enermy\\Enemy.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Enermy\\Enemy.cs",
-              "ToolTip": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\TheDestroyer\\Assets\\Scripts\\Enermy\\Enemy.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Enermy\\Enemy.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "ScreenTransitionTrigger.cs",
+              "DocumentMoniker": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\gamedevgaming\\TheDestroyer\\Assets\\Scripts\\ScreenTransitionTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScreenTransitionTrigger.cs",
+              "ToolTip": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\gamedevgaming\\TheDestroyer\\Assets\\Scripts\\ScreenTransitionTrigger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScreenTransitionTrigger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-23T19:30:52.694Z"
+              "WhenOpened": "2025-12-25T20:50:25.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LevelGoal.cs",
+              "DocumentMoniker": "C:\\Users\\ARIFIN\\AppData\\Local\\Temp\\03bf161e-89fe-45fe-8a24-c9b0aa198eb3_Scripts.zip.eb3\\Scripts\\Game-Manager\\LevelGoal.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\03bf161e-89fe-45fe-8a24-c9b0aa198eb3_Scripts.zip.eb3\\Scripts\\Game-Manager\\LevelGoal.cs",
+              "ToolTip": "C:\\Users\\ARIFIN\\AppData\\Local\\Temp\\03bf161e-89fe-45fe-8a24-c9b0aa198eb3_Scripts.zip.eb3\\Scripts\\Game-Manager\\LevelGoal.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\03bf161e-89fe-45fe-8a24-c9b0aa198eb3_Scripts.zip.eb3\\Scripts\\Game-Manager\\LevelGoal.cs [Read Only]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T20:32:20.723Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerPersistent.cs",
+              "DocumentMoniker": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\gamedevgaming\\TheDestroyer\\Assets\\Scripts\\PlayerPersistent.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerPersistent.cs",
+              "ToolTip": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\gamedevgaming\\TheDestroyer\\Assets\\Scripts\\PlayerPersistent.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerPersistent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T20:31:38.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LevelGoal.cs",
+              "DocumentMoniker": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\gamedevgaming\\TheDestroyer\\Assets\\Scripts\\LevelGoal.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LevelGoal.cs",
+              "ToolTip": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\gamedevgaming\\TheDestroyer\\Assets\\Scripts\\LevelGoal.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LevelGoal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T20:23:09.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EnemyTouchDamage.cs",
+              "DocumentMoniker": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\gamedevgaming\\TheDestroyer\\Assets\\Scripts\\Enermy\\EnemyTouchDamage.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enermy\\EnemyTouchDamage.cs",
+              "ToolTip": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\gamedevgaming\\TheDestroyer\\Assets\\Scripts\\Enermy\\EnemyTouchDamage.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enermy\\EnemyTouchDamage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T09:08:46.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EnemyAI.cs",
+              "DocumentMoniker": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\gamedevgaming\\TheDestroyer\\Assets\\Scripts\\Enermy\\EnemyAI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enermy\\EnemyAI.cs",
+              "ToolTip": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\gamedevgaming\\TheDestroyer\\Assets\\Scripts\\Enermy\\EnemyAI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enermy\\EnemyAI.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAYwFwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T09:07:54.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "PlayerBullets.cs",
+              "DocumentMoniker": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\gamedevgaming\\TheDestroyer\\Assets\\Scripts\\ShoootingMechanism\\PlayerBullets.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ShoootingMechanism\\PlayerBullets.cs",
+              "ToolTip": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\gamedevgaming\\TheDestroyer\\Assets\\Scripts\\ShoootingMechanism\\PlayerBullets.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ShoootingMechanism\\PlayerBullets.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T09:01:56.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SavePoint.cs",
+              "DocumentMoniker": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\gamedevgaming\\TheDestroyer\\Assets\\Scripts\\SavePoint.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SavePoint.cs",
+              "ToolTip": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\gamedevgaming\\TheDestroyer\\Assets\\Scripts\\SavePoint.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SavePoint.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T19:51:01.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\gamedevgaming\\TheDestroyer\\Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\gamedevgaming\\TheDestroyer\\Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAQwFQAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T06:36:15.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DestroyOnhit.cs",
+              "DocumentMoniker": "C:\\Users\\ARIFIN\\Downloads\\ScriptsNew\\Player\\DestroyOnhit.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Downloads\\ScriptsNew\\Player\\DestroyOnhit.cs",
+              "ToolTip": "C:\\Users\\ARIFIN\\Downloads\\ScriptsNew\\Player\\DestroyOnhit.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Downloads\\ScriptsNew\\Player\\DestroyOnhit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T09:41:16.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PlayerBullet.cs",
+              "DocumentMoniker": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\gamedevgaming\\TheDestroyer\\Assets\\Scripts\\ShoootingMechanism\\PlayerBullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ShoootingMechanism\\PlayerBullet.cs",
+              "ToolTip": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\gamedevgaming\\TheDestroyer\\Assets\\Scripts\\ShoootingMechanism\\PlayerBullet.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ShoootingMechanism\\PlayerBullet.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAIBJwCIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T08:52:18.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PlayerStack.cs",
+              "DocumentMoniker": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\gamedevgaming\\TheDestroyer\\Assets\\Scripts\\ShoootingMechanism\\PlayerStack.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ShoootingMechanism\\PlayerStack.cs",
+              "ToolTip": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\gamedevgaming\\TheDestroyer\\Assets\\Scripts\\ShoootingMechanism\\PlayerStack.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ShoootingMechanism\\PlayerStack.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T08:51:21.61Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "ShootingItem1.cs",
-              "DocumentMoniker": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\TheDestroyer\\Assets\\Scripts\\ShoootingMechanism\\ShootingItem1.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\ShoootingMechanism\\ShootingItem1.cs",
-              "ToolTip": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\TheDestroyer\\Assets\\Scripts\\ShoootingMechanism\\ShootingItem1.cs",
-              "RelativeToolTip": "Assets\\Scripts\\ShoootingMechanism\\ShootingItem1.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAYwCMAAAAFAAAA",
+              "Title": "PlayerShooting.cs",
+              "DocumentMoniker": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\gamedevgaming\\TheDestroyer\\Assets\\Scripts\\ShoootingMechanism\\PlayerShooting.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ShoootingMechanism\\PlayerShooting.cs",
+              "ToolTip": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\gamedevgaming\\TheDestroyer\\Assets\\Scripts\\ShoootingMechanism\\PlayerShooting.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ShoootingMechanism\\PlayerShooting.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAQwFsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-23T18:31:48.018Z"
+              "WhenOpened": "2025-12-25T08:50:57.618Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "DestroyOnhit.cs",
-              "DocumentMoniker": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\TheDestroyer\\Assets\\Scripts\\Player\\DestroyOnhit.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\DestroyOnhit.cs",
-              "ToolTip": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\TheDestroyer\\Assets\\Scripts\\Player\\DestroyOnhit.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Player\\DestroyOnhit.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Title": "PlayerHealth.cs",
+              "DocumentMoniker": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\gamedevgaming\\TheDestroyer\\Assets\\Scripts\\HealthSystem\\PlayerHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HealthSystem\\PlayerHealth.cs",
+              "ToolTip": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\gamedevgaming\\TheDestroyer\\Assets\\Scripts\\HealthSystem\\PlayerHealth.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HealthSystem\\PlayerHealth.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-23T19:26:22.644Z"
+              "WhenOpened": "2025-12-24T10:09:52.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EnemyHealh.cs",
+              "DocumentMoniker": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\gamedevgaming\\TheDestroyer\\Assets\\Scripts\\Enermy\\EnemyHealh.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enermy\\EnemyHealh.cs",
+              "ToolTip": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\gamedevgaming\\TheDestroyer\\Assets\\Scripts\\Enermy\\EnemyHealh.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enermy\\EnemyHealh.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T08:53:03.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SavePoint.cs",
+              "DocumentMoniker": "C:\\Users\\ARIFIN\\AppData\\Local\\Temp\\6694e667-3aee-4ea0-ab43-bce7d19d50eb_Scripts.zip.0eb\\Scripts\\Game-Manager\\SavePoint.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\6694e667-3aee-4ea0-ab43-bce7d19d50eb_Scripts.zip.0eb\\Scripts\\Game-Manager\\SavePoint.cs",
+              "ToolTip": "C:\\Users\\ARIFIN\\AppData\\Local\\Temp\\6694e667-3aee-4ea0-ab43-bce7d19d50eb_Scripts.zip.0eb\\Scripts\\Game-Manager\\SavePoint.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\6694e667-3aee-4ea0-ab43-bce7d19d50eb_Scripts.zip.0eb\\Scripts\\Game-Manager\\SavePoint.cs [Read Only]",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAcwB4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T19:51:39.775Z",
+              "EditorCaption": " [Read Only]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "HealthDisplay.cs",
+              "DocumentMoniker": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\gamedevgaming\\TheDestroyer\\Assets\\Scripts\\HealthSystem\\HealthDisplay.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HealthSystem\\HealthDisplay.cs",
+              "ToolTip": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\gamedevgaming\\TheDestroyer\\Assets\\Scripts\\HealthSystem\\HealthDisplay.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HealthSystem\\HealthDisplay.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T15:47:49.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "Shooting.cs",
-              "DocumentMoniker": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\TheDestroyer\\Assets\\Scripts\\ShoootingMechanism\\Shooting.cs",
+              "DocumentMoniker": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\gamedevgaming\\TheDestroyer\\Assets\\Scripts\\ShoootingMechanism\\Shooting.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ShoootingMechanism\\Shooting.cs",
-              "ToolTip": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\TheDestroyer\\Assets\\Scripts\\ShoootingMechanism\\Shooting.cs",
+              "ToolTip": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\gamedevgaming\\TheDestroyer\\Assets\\Scripts\\ShoootingMechanism\\Shooting.cs",
               "RelativeToolTip": "Assets\\Scripts\\ShoootingMechanism\\Shooting.cs",
               "ViewState": "AQIAABIAAAAAAAAAAAAYwCwAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -196,11 +406,188 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\gamedevgaming\\TheDestroyer\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\gamedevgaming\\TheDestroyer\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T09:44:07.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DestroyOnHit.cs",
+              "DocumentMoniker": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\gamedevgaming\\TheDestroyer\\Assets\\Scripts\\DestroyOnHit.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DestroyOnHit.cs",
+              "ToolTip": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\gamedevgaming\\TheDestroyer\\Assets\\Scripts\\DestroyOnHit.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DestroyOnHit.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T09:58:54.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CameraFollow.cs",
+              "DocumentMoniker": "C:\\Users\\ARIFIN\\Downloads\\ScriptsNew\\Player\\CameraFollow.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Downloads\\ScriptsNew\\Player\\CameraFollow.cs",
+              "ToolTip": "C:\\Users\\ARIFIN\\Downloads\\ScriptsNew\\Player\\CameraFollow.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Downloads\\ScriptsNew\\Player\\CameraFollow.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAYwCoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T09:41:06.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "EnemyAI.cs",
+              "DocumentMoniker": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\TheDestroyer\\Assets\\Scripts\\Enermy\\EnemyAI.cs",
+              "RelativeDocumentMoniker": "..\\..\\TheDestroyer\\Assets\\Scripts\\Enermy\\EnemyAI.cs",
+              "ToolTip": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\TheDestroyer\\Assets\\Scripts\\Enermy\\EnemyAI.cs",
+              "RelativeToolTip": "..\\..\\TheDestroyer\\Assets\\Scripts\\Enermy\\EnemyAI.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T16:47:03.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StackImageUI.cs",
+              "DocumentMoniker": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\gamedevgaming\\TheDestroyer\\Assets\\Scripts\\StackImageUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StackImageUI.cs",
+              "ToolTip": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\gamedevgaming\\TheDestroyer\\Assets\\Scripts\\StackImageUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StackImageUI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T18:03:52.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EnemyBullet.cs",
+              "DocumentMoniker": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\gamedevgaming\\TheDestroyer\\Assets\\Scripts\\ShoootingMechanism\\EnemyBullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ShoootingMechanism\\EnemyBullet.cs",
+              "ToolTip": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\gamedevgaming\\TheDestroyer\\Assets\\Scripts\\ShoootingMechanism\\EnemyBullet.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ShoootingMechanism\\EnemyBullet.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAYwB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T18:54:17.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "EnemyDetection.cs",
+              "DocumentMoniker": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\TheDestroyer\\Assets\\Scripts\\HealthSystem\\EnemyDetection.cs",
+              "RelativeDocumentMoniker": "..\\..\\TheDestroyer\\Assets\\Scripts\\HealthSystem\\EnemyDetection.cs",
+              "ToolTip": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\TheDestroyer\\Assets\\Scripts\\HealthSystem\\EnemyDetection.cs",
+              "RelativeToolTip": "..\\..\\TheDestroyer\\Assets\\Scripts\\HealthSystem\\EnemyDetection.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T10:48:06.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EnemyShooting.cs",
+              "DocumentMoniker": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\gamedevgaming\\TheDestroyer\\Assets\\Scripts\\ShoootingMechanism\\EnemyShooting.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ShoootingMechanism\\EnemyShooting.cs",
+              "ToolTip": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\gamedevgaming\\TheDestroyer\\Assets\\Scripts\\ShoootingMechanism\\EnemyShooting.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ShoootingMechanism\\EnemyShooting.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAYwB8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T15:32:10.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "PlayerStack.cs",
+              "DocumentMoniker": "C:\\Users\\ARIFIN\\Downloads\\ScriptsNew\\Player\\PlayerStack.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Downloads\\ScriptsNew\\Player\\PlayerStack.cs",
+              "ToolTip": "C:\\Users\\ARIFIN\\Downloads\\ScriptsNew\\Player\\PlayerStack.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Downloads\\ScriptsNew\\Player\\PlayerStack.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T08:51:32.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CameraFollow.cs",
+              "DocumentMoniker": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\gamedevgaming\\TheDestroyer\\Assets\\Scripts\\CameraFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraFollow.cs",
+              "ToolTip": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\gamedevgaming\\TheDestroyer\\Assets\\Scripts\\CameraFollow.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraFollow.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAYwCoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T09:30:22.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\gamedevgaming\\TheDestroyer\\Assets\\Assets\\New folder\\Street Backgrounds Pixel Art Original\\Scripts\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\New folder\\Street Backgrounds Pixel Art Original\\Scripts\\Player.cs",
+              "ToolTip": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\gamedevgaming\\TheDestroyer\\Assets\\Assets\\New folder\\Street Backgrounds Pixel Art Original\\Scripts\\Player.cs",
+              "RelativeToolTip": "Assets\\Assets\\New folder\\Street Backgrounds Pixel Art Original\\Scripts\\Player.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T11:49:42.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "EnemyDamage.cs",
+              "DocumentMoniker": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\gamedevgaming\\TheDestroyer\\Assets\\Scripts\\HealthSystem\\EnemyDamage.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HealthSystem\\EnemyDamage.cs",
+              "ToolTip": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\gamedevgaming\\TheDestroyer\\Assets\\Scripts\\HealthSystem\\EnemyDamage.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HealthSystem\\EnemyDamage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAYwBEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T10:12:18.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\gamedevgaming\\TheDestroyer\\Assets\\Scripts\\Enermy\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enermy\\Enemy.cs",
+              "ToolTip": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\gamedevgaming\\TheDestroyer\\Assets\\Scripts\\Enermy\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enermy\\Enemy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T19:30:52.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ShootingItem1.cs",
+              "DocumentMoniker": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\gamedevgaming\\TheDestroyer\\Assets\\Scripts\\ShoootingMechanism\\ShootingItem1.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ShoootingMechanism\\ShootingItem1.cs",
+              "ToolTip": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\gamedevgaming\\TheDestroyer\\Assets\\Scripts\\ShoootingMechanism\\ShootingItem1.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ShoootingMechanism\\ShootingItem1.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwCMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T18:31:48.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "DestroyOnhit.cs",
+              "DocumentMoniker": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\gamedevgaming\\TheDestroyer\\Assets\\Scripts\\Player\\DestroyOnhit.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\DestroyOnhit.cs",
+              "ToolTip": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\gamedevgaming\\TheDestroyer\\Assets\\Scripts\\Player\\DestroyOnhit.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\DestroyOnhit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T19:26:22.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
               "Title": "ShootingAction.cs",
-              "DocumentMoniker": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\TheDestroyer\\Assets\\Scripts\\ShoootingMechanism\\ShootingAction.cs",
+              "DocumentMoniker": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\gamedevgaming\\TheDestroyer\\Assets\\Scripts\\ShoootingMechanism\\ShootingAction.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ShoootingMechanism\\ShootingAction.cs",
-              "ToolTip": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\TheDestroyer\\Assets\\Scripts\\ShoootingMechanism\\ShootingAction.cs",
+              "ToolTip": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\gamedevgaming\\TheDestroyer\\Assets\\Scripts\\ShoootingMechanism\\ShootingAction.cs",
               "RelativeToolTip": "Assets\\Scripts\\ShoootingMechanism\\ShootingAction.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -208,47 +595,47 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 36,
               "Title": "ShootingAction.cs",
               "DocumentMoniker": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\TheDestroyer\\Assets\\Scripts\\ShootingAction.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\ShootingAction.cs",
+              "RelativeDocumentMoniker": "..\\..\\TheDestroyer\\Assets\\Scripts\\ShootingAction.cs",
               "ToolTip": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\TheDestroyer\\Assets\\Scripts\\ShootingAction.cs",
-              "RelativeToolTip": "Assets\\Scripts\\ShootingAction.cs",
+              "RelativeToolTip": "..\\..\\TheDestroyer\\Assets\\Scripts\\ShootingAction.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-23T18:10:13.278Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 37,
               "Title": "ShootingItem1.cs",
               "DocumentMoniker": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\TheDestroyer\\Assets\\Scripts\\ShootingItem1.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\ShootingItem1.cs",
+              "RelativeDocumentMoniker": "..\\..\\TheDestroyer\\Assets\\Scripts\\ShootingItem1.cs",
               "ToolTip": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\TheDestroyer\\Assets\\Scripts\\ShootingItem1.cs",
-              "RelativeToolTip": "Assets\\Scripts\\ShootingItem1.cs",
+              "RelativeToolTip": "..\\..\\TheDestroyer\\Assets\\Scripts\\ShootingItem1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-23T17:21:38.604Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 38,
               "Title": "ShootingMechanism.cs",
               "DocumentMoniker": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\TheDestroyer\\Assets\\Scripts\\ShootingMechanism.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\ShootingMechanism.cs",
+              "RelativeDocumentMoniker": "..\\..\\TheDestroyer\\Assets\\Scripts\\ShootingMechanism.cs",
               "ToolTip": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\TheDestroyer\\Assets\\Scripts\\ShootingMechanism.cs",
-              "RelativeToolTip": "Assets\\Scripts\\ShootingMechanism.cs",
+              "RelativeToolTip": "..\\..\\TheDestroyer\\Assets\\Scripts\\ShootingMechanism.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-23T17:20:46.207Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 39,
               "Title": "ParallexLayer.cs",
               "DocumentMoniker": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\TheDestroyer\\Assets\\Scripts\\ParallexLayer.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\ParallexLayer.cs",
+              "RelativeDocumentMoniker": "..\\..\\TheDestroyer\\Assets\\Scripts\\ParallexLayer.cs",
               "ToolTip": "C:\\Users\\ARIFIN\\OneDrive\\AppData\\Documents\\Desktop\\TheDestroyer\\Assets\\Scripts\\ParallexLayer.cs",
-              "RelativeToolTip": "Assets\\Scripts\\ParallexLayer.cs",
+              "RelativeToolTip": "..\\..\\TheDestroyer\\Assets\\Scripts\\ParallexLayer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-23T13:43:45.929Z"

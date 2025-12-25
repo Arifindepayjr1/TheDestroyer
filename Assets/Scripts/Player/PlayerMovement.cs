@@ -1,7 +1,9 @@
-using UnityEngine;
+﻿using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
+    public Animator animator;
+
     [Header("Movement")]
     float horizontalInput;
     public float moveSpeed = 5f;
@@ -12,10 +14,15 @@ public class PlayerMovement : MonoBehaviour
     public float groundRadius = 0.2f;
     public LayerMask groundLayer;
 
-    bool isFacingRight = true;
-    bool isGrounded;
+    private bool isFacingRight = true;
+    private bool isGrounded;
+    private bool isDead = false;
 
-    Rigidbody2D rb;
+    public bool IsDead => isDead;
+
+    private Rigidbody2D rb;
+
+    public PlayerHealth playerHealth; // reference to PlayerHealth
 
     void Start()
     {
@@ -24,23 +31,23 @@ public class PlayerMovement : MonoBehaviour
 
     void Update()
     {
+        if (isDead) return;
+
         horizontalInput = Input.GetAxis("Horizontal");
+        animator.SetFloat("xVelocity", Mathf.Abs(horizontalInput));
 
         FlipSprite();
 
-        // Jump only if grounded
         if (Input.GetKeyDown(KeyCode.W) && isGrounded)
-        {
             rb.velocity = new Vector2(rb.velocity.x, jumpPower);
-        }
     }
 
     void FixedUpdate()
     {
-        // Horizontal movement
+        if (isDead) return;
+
         rb.velocity = new Vector2(horizontalInput * moveSpeed, rb.velocity.y);
 
-        // Ground check
         isGrounded = Physics2D.OverlapCircle(
             groundCheck.position,
             groundRadius,
@@ -48,21 +55,45 @@ public class PlayerMovement : MonoBehaviour
         );
     }
 
+    public void Die()
+    {
+        if (isDead) return;
+
+        isDead = true;
+        rb.velocity = Vector2.zero;
+
+        if (animator != null)
+            animator.SetTrigger("Die");
+
+        Invoke(nameof(Respawn), 1f); // delay for death animation
+    }
+
+    void Respawn()
+    {
+        isDead = false;
+
+        // Restore health
+        if (playerHealth != null)
+            playerHealth.RestoreHealth();
+
+        GameManager.instance.RespawnPlayer(gameObject);
+    }
+
     void FlipSprite()
     {
-        if (isFacingRight && horizontalInput < 0f || !isFacingRight && horizontalInput > 0f)
+        if (isFacingRight && horizontalInput < 0f ||
+            !isFacingRight && horizontalInput > 0f)
         {
             isFacingRight = !isFacingRight;
-            Vector3 ls = transform.localScale;
-            ls.x *= -1f;
-            transform.localScale = ls;
+            Vector3 scale = transform.localScale;
+            scale.x *= -1f;
+            transform.localScale = scale;
         }
     }
 
     void OnDrawGizmosSelected()
     {
         if (groundCheck == null) return;
-
         Gizmos.color = Color.red;
         Gizmos.DrawWireSphere(groundCheck.position, groundRadius);
     }
